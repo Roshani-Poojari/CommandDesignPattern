@@ -1,0 +1,14 @@
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\bin\Debug\net8.0\CommandDesignPattern.exe
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\bin\Debug\net8.0\CommandDesignPattern.deps.json
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\bin\Debug\net8.0\CommandDesignPattern.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\bin\Debug\net8.0\CommandDesignPattern.dll
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\bin\Debug\net8.0\CommandDesignPattern.pdb
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\CommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\CommandDesignPattern.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\CommandDesignPattern.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\CommandDesignPattern.dll
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\refint\CommandDesignPattern.dll
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\CommandDesignPattern.pdb
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\CommandDesignPattern.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\CommandDesignPattern\obj\Debug\net8.0\ref\CommandDesignPattern.dll
